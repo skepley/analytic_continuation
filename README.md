@@ -1,5 +1,5 @@
 # analytic\_continuation
-[![DOI](https://zenodo.org/badge/doi/.10.1137/zenodo.18914.svg)](https://doi.org/10.1137/17M1135888)
+[![DOI](https://zenodo.org/badge/doi/10.1137/17M1135888.svg)](https://doi.org/10.1137/17M1135888)
 
 Shane Kepley
 
